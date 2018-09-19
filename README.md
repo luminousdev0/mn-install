@@ -17,7 +17,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 * **Section E**: Connecting & Starting the masternode.
 ***
 
-## Section A: Creating the VPS within [Vultr](https://www.vultr.com/?ref=7515970)
+## Section A: Creating the VPS within [Vultr](https://www.vultr.com/?ref=7355275)
 ***Step 1***
 * Register at [Vultr](https://www.vultr.com/?ref=7355275)
 ***
@@ -101,7 +101,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/vuDtUVj.png)
 
-`wget https://raw.githubusercontent.com/YellowFeveRs/Tour-1/master/mn_setup.sh`
+`wget https://github.com/luminousdev0/mn-install/blob/master/mn_setup.sh`
 ***
 
 ***Step 8***

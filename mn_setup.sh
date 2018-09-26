@@ -9,6 +9,7 @@ COIN_PATH='/usr/local/bin/'
 COIN_REPO='https://github.com/TourcoinGroup/Tourcoin.git'
 COIN_TGZ='https://github.com/luminousdev0/uploads/releases/download/1.0/test-new.zip'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
+SENTINEL_REPO='https://github.com/luminousdev0/sentinel-test'
 COIN_NAME='Tour'
 COIN_PORT=5457
 RPC_PORT=5456
